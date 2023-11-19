@@ -1,4 +1,4 @@
-# pingpong-game
+# Ping-Pong game
 This project presents the development of a classic ping pong game using Python, titled "Ping Pong".
 The objective was to create an interactive and entertaining game that demonstrates key programming 
 and game development principles.
